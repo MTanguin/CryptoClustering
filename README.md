@@ -77,11 +77,12 @@ OPTIMIZE CLUSTERS WITH PRINCIPAL COMPONENT ANALYSIS
 
 	Create a new DataFrame with the PCA data and set the "coin_id" index from the original DataFrame as the index for the new DataFrame.
 
-		The first five rows of the PCA DataFrame should appear as follows:
+		The first five rows of the PCA DataFrame should appear as follow:
+		
+		
+![data2](https://user-images.githubusercontent.com/114210481/226498462-9f98182a-1943-4c21-8d3f-bc04c0a266f0.png)
 
-	![Alt text](Images/data2.png)	
-
-
+		
 
 FIND THE BEST VALUE FOR k USING THE PCA DATA
 
