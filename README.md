@@ -20,7 +20,7 @@ Create a DataFrame with the scaled data and set the "coin_id" index from the ori
 
 	The first five rows of the scaled DataFrame should appear as follows:
 
-<<<<insert image of The first five rows of the scaled DataFrame>>>
+![Alt text](Images/data1.png)
 
 
 
@@ -79,7 +79,7 @@ OPTIMIZE CLUSTERS WITH PRINCIPAL COMPONENT ANALYSIS
 
 		The first five rows of the PCA DataFrame should appear as follows:
 
-		<<<insert image of The first five rows of the PCA DataFrame>>>
+	![Alt text](Images/data2.png)	
 
 
 
