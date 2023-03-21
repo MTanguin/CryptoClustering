@@ -161,3 +161,18 @@ The Inertia measures the within-cluster sum of squared distances from each point
 The Calinski-Harabasz Index measures the ratio of between-cluster variance to within-cluster variance. A higher value indicates better clustering performance. In this case, the PCA and K-means algorithm combination achieved a higher CH Index score of 33.05, compared to 25.26 to the other one. This suggests that the PCA and K-means combination algorithm was able to create more separated clusters.
 
 Overall, it appears that both algorithms performed well in clustering, but PCA and K-means algorithm combination had slightly better performance, with better separation and compactness of the clusters. The k value of 3 was used for both algorithms, and it seems to have resulted in well-separated and compact clusters.
+
+
+
+
+Sources:
+
+https://courses.bootcampspot.com/courses/2799/assignments/42910?module_item_id=803895
+
+https://scikit-learn.org/stable/modules/clustering.html#clustering
+
+https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html
+
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.calinski_harabasz_score.html#sklearn.metrics.calinski_harabasz_score
+
+
