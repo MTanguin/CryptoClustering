@@ -1,6 +1,11 @@
 Notes:
+
 Created two notebooks, one for back-up, in case the other notebook won't open due to unexpected error.
+
 Plots won't show on the github page for some reason. But shows on Jupyter notebook in a local server when being run. Please check the Image folder for the plots images. 
+
+
+
 
 # CryptoClustering
 
