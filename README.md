@@ -17,7 +17,7 @@ Use your knowledge of Python and unsupervised learning to predict if cryptocurre
 
 
 
-## INTSTRUCTION
+## INSTRUCTION
 
 
 PREPARE THE DATA
