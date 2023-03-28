@@ -17,7 +17,7 @@ Use your knowledge of Python and unsupervised learning to predict if cryptocurre
 
 
 
-METHODS
+## INTSTRUCTION
 
 
 PREPARE THE DATA
@@ -142,7 +142,7 @@ Use the following steps to cluster the cryptocurrencies for the best value for k
 		What is the impact of using fewer features to cluster the data using K-Means?
 
 
-RESULTS
+## RESULTS
 
 
 
@@ -155,7 +155,7 @@ RESULTS
 
 
 
-Interpretation
+## SUMMARY
 
 
 Based on the information provided, the same dataset was used for both the K-means algorithm and the PCA and K-means algorithm combination. The K-means algorithm was applied to the dataset to partition it into K clusters based on similarity of the data points. Then, the PCA algorithm was applied to the dataset to reduce the dimensionality of the dataset, and the K-means algorithm was applied again to the reduced dataset to partition it into K clusters.
