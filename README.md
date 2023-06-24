@@ -57,7 +57,7 @@ Cryptocurrencies have gained significant attention in the financial world, and u
 
 
 
-## SUMMARY
+## Summary
 
 
 Based on the information provided, the same dataset was used for both the K-means algorithm and the PCA and K-means algorithm combination. The K-means algorithm was applied to the dataset to partition it into K clusters based on similarity of the data points. Then, the PCA algorithm was applied to the dataset to reduce the dimensionality of the dataset, and the K-means algorithm was applied again to the reduced dataset to partition it into K clusters.
