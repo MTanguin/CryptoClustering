@@ -45,7 +45,7 @@ Cryptocurrencies have gained significant attention in the financial world, and u
    - Color the graph points according to the predicted clusters and add the "coin_id" column to the hover information for identification.
 
 
-## RESULTS
+# Results
 
 
 ![Alt text](Images/clustering_comparison.png)
